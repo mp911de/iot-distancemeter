@@ -7,7 +7,7 @@ from distancemeter import get_distance,cleanup
 
 # Logstash TCP/JSON Host
 JSON_PORT = 9400
-JSON_HOST = '192.168.55.56'
+JSON_HOST = '192.168.55.34'
 
 CM_PER_SEC_AIR = 34300
 

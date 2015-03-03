@@ -28,21 +28,10 @@
           "active": true,
           "alias": "",
           "id": 0
-        },
-        "3": {
-          "type": "time",
-          "from": "2015-03-02T21:52:08.150Z",
-          "to": "2015-03-02T21:52:16.238Z",
-          "field": "@timestamp",
-          "mandate": "must",
-          "active": true,
-          "alias": "",
-          "id": 3
         }
       },
       "ids": [
-        0,
-        3
+        0
       ]
     }
   },
